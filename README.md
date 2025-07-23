@@ -12,6 +12,8 @@ Economic Correlation Analysis: A scatter plot visualizes the strong positive cor
 
 Advanced Time-Series Analysis: A line chart visualizes not just daily new cases, but also a 7-day moving average to smooth out reporting noise and reveal the true underlying trend of infection waves.
 
+Filters for Interactivity: Added a Filter to choose location and see the cases and view the dashboard change dynamically according to the location.
+
 **How to Replicate**
 
 Data Source: The owid-covid-data.csv dataset can be downloaded directly from https://github.com/owid/covid-19-data.
